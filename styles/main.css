@@ -607,7 +607,7 @@ footer p {
     font-size: 0.8rem;
   }
   header {
-    height: 60vh;
+    height: 100vh;
   }
   .header_information {
     transform: translateY(-100px);
