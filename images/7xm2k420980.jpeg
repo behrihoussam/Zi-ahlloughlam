@@ -1,0 +1,22 @@
+<br />
+<b>Warning</b>:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Empty input file in <b>/home/7xm.xyz/public_html/shutterstock/dl.php</b> on line <b>4</b><br />
+<br />
+<b>Warning</b>:  imagecreatefromjpeg(): 'images/7xm.xyz703333.jpg' is not a valid JPEG file in <b>/home/7xm.xyz/public_html/shutterstock/dl.php</b> on line <b>4</b><br />
+<br />
+<b>Warning</b>:  imagesx() expects parameter 1 to be resource, bool given in <b>/home/7xm.xyz/public_html/shutterstock/dl.php</b> on line <b>7</b><br />
+<br />
+<b>Warning</b>:  imagesy() expects parameter 1 to be resource, bool given in <b>/home/7xm.xyz/public_html/shutterstock/dl.php</b> on line <b>8</b><br />
+<br />
+<b>Warning</b>:  imagecreatetruecolor(): Invalid image dimensions in <b>/home/7xm.xyz/public_html/shutterstock/dl.php</b> on line <b>15</b><br />
+<br />
+<b>Warning</b>:  imagecopyresampled() expects parameter 1 to be resource, bool given in <b>/home/7xm.xyz/public_html/shutterstock/dl.php</b> on line <b>18</b><br />
+<br />
+<b>Warning</b>:  imagejpeg() expects parameter 1 to be resource, bool given in <b>/home/7xm.xyz/public_html/shutterstock/dl.php</b> on line <b>23</b><br />
+<br />
+<b>Warning</b>:  imagedestroy() expects parameter 1 to be resource, bool given in <b>/home/7xm.xyz/public_html/shutterstock/dl.php</b> on line <b>28</b><br />
+<br />
+<b>Warning</b>:  imagedestroy() expects parameter 1 to be resource, bool given in <b>/home/7xm.xyz/public_html/shutterstock/dl.php</b> on line <b>29</b><br />
+<br />
+<b>Warning</b>:  filesize(): stat failed for images/7xm2k420980.jpg in <b>/home/7xm.xyz/public_html/shutterstock/dl.php</b> on line <b>32</b><br />
+<br />
+<b>Warning</b>:  readfile(images/7xm2k420980.jpg): failed to open stream: No such file or directory in <b>/home/7xm.xyz/public_html/shutterstock/dl.php</b> on line <b>34</b><br />
